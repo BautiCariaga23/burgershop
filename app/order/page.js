@@ -32,38 +32,38 @@ export default function page() {
 
     const sections = [
         {
-            items: [<Card name = "BURGERS" img = "https://i.pinimg.com/736x/99/8d/cd/998dcd02a17a13d84496a8b7fa555f42.jpg"/>,
-            <Card name = "COMBOS" img ="https://freepngimg.com/download/burger/146885-king-burger-combo-free-transparent-image-hq.png"/>,
-            <Card name = "DRINKS" img = "https://img.freepik.com/premium-photo/plastic-bottle-with-water_184700-156.jpg"/>,
-            <Card name = "DESSERTS" img = "https://img.freepik.com/free-photo/milkshake-table_144627-27511.jpg"/>,
+            items: [<Card price = "$3500" name = "Bacon CheeseBurger" img = "https://i.pinimg.com/736x/99/8d/cd/998dcd02a17a13d84496a8b7fa555f42.jpg"/>,
+            <Card price = "$6500" name = "COMBO Bacon CheeseBurger" img = "https://freepngimg.com/download/burger/146885-king-burger-combo-free-transparent-image-hq.png"/>,
+            <Card price = "$700" name = "Coca Cola" img = "https://a-manger.com/cdn/shop/products/Gaseosa-Coca-Cola-500-Cc-COCA-COLA--------X500ML-1-3024.jpg?v=1632746390"/>,
+            <Card price = "$500" name = "Ice cream" img = "https://atlas-content-cdn.pixelsquid.com/stock-images/ice-cream-cone-rvqOynE-600.jpg"/>,
         ]
         },
         {
-            items: [<Card name = "Bacon CheeseBurger" img = "https://i.pinimg.com/736x/99/8d/cd/998dcd02a17a13d84496a8b7fa555f42.jpg"/>,
-            <Card name = "Bacon CheeseBurger" img = "https://i.pinimg.com/736x/99/8d/cd/998dcd02a17a13d84496a8b7fa555f42.jpg"/>,
-            <Card name = "Bacon CheeseBurger" img = "https://i.pinimg.com/736x/99/8d/cd/998dcd02a17a13d84496a8b7fa555f42.jpg"/>,
-            <Card name = "Bacon CheeseBurger" img = "https://i.pinimg.com/736x/99/8d/cd/998dcd02a17a13d84496a8b7fa555f42.jpg"/>,
+            items: [<Card price = "$3500" name = "Bacon CheeseBurger" img = "https://i.pinimg.com/736x/99/8d/cd/998dcd02a17a13d84496a8b7fa555f42.jpg"/>,
+            <Card price = "$3500" name = "Bacon CheeseBurger" img = "https://i.pinimg.com/736x/99/8d/cd/998dcd02a17a13d84496a8b7fa555f42.jpg"/>,
+            <Card price = "$3500" name = "Bacon CheeseBurger" img = "https://i.pinimg.com/736x/99/8d/cd/998dcd02a17a13d84496a8b7fa555f42.jpg"/>,
+            <Card price = "$3500" name = "Bacon CheeseBurger" img = "https://i.pinimg.com/736x/99/8d/cd/998dcd02a17a13d84496a8b7fa555f42.jpg"/>,
         ]
         },
         {
-            items: [<Card name = "COMBO Bacon CheeseBurger" img = "https://freepngimg.com/download/burger/146885-king-burger-combo-free-transparent-image-hq.png"/>,
-            <Card name = "COMBO Bacon CheeseBurger" img = "https://freepngimg.com/download/burger/146885-king-burger-combo-free-transparent-image-hq.png"/>,
-            <Card name = "COMBO Bacon CheeseBurger" img = "https://freepngimg.com/download/burger/146885-king-burger-combo-free-transparent-image-hq.png"/>,
-            <Card name = "COMBO Bacon CheeseBurger" img = "https://freepngimg.com/download/burger/146885-king-burger-combo-free-transparent-image-hq.png"/>,
+            items: [<Card price = "$6500" name = "COMBO Bacon CheeseBurger" img = "https://freepngimg.com/download/burger/146885-king-burger-combo-free-transparent-image-hq.png"/>,
+            <Card price = "$6500" name = "COMBO Bacon CheeseBurger" img = "https://freepngimg.com/download/burger/146885-king-burger-combo-free-transparent-image-hq.png"/>,
+            <Card price = "$6500" name = "COMBO Bacon CheeseBurger" img = "https://freepngimg.com/download/burger/146885-king-burger-combo-free-transparent-image-hq.png"/>,
+            <Card price = "$6500" name = "COMBO Bacon CheeseBurger" img = "https://freepngimg.com/download/burger/146885-king-burger-combo-free-transparent-image-hq.png"/>,
         ]
         },
         {
-            items: [<Card name = "Coca Cola" img = "https://a-manger.com/cdn/shop/products/Gaseosa-Coca-Cola-500-Cc-COCA-COLA--------X500ML-1-3024.jpg?v=1632746390"/>,
-            <Card name = "Pepsi" img = "https://freepngimg.com/thumb/pepsi/7-pepsi-bottle-png-image-download--thumb.png"/>,
-            <Card name = "Sprite" img = "https://mayoristasoto.com/9657-medium_default/sprite-500ml.jpg"/>,
-            <Card name = "Water" img = "https://img.freepik.com/premium-photo/plastic-bottle-with-water_184700-156.jpg"/>,
+            items: [<Card price = "$700" name = "Coca Cola" img = "https://a-manger.com/cdn/shop/products/Gaseosa-Coca-Cola-500-Cc-COCA-COLA--------X500ML-1-3024.jpg?v=1632746390"/>,
+            <Card price = "$600" name = "Pepsi" img = "https://freepngimg.com/thumb/pepsi/7-pepsi-bottle-png-image-download--thumb.png"/>,
+            <Card price = "$600" name = "Sprite" img = "https://mayoristasoto.com/9657-medium_default/sprite-500ml.jpg"/>,
+            <Card price = "$500" name = "Water" img = "https://img.freepik.com/premium-photo/plastic-bottle-with-water_184700-156.jpg"/>,
         ]
         },
         {
-            items: [<Card name = "Ice cream" img = "https://atlas-content-cdn.pixelsquid.com/stock-images/ice-cream-cone-rvqOynE-600.jpg"/>,
-            <Card name = "Sundae" img = "https://www.pnguniverse.com/wp-content/uploads/2020/10/Sundae.png"/>,
-            <Card name = "Milkshake" img = "https://img.freepik.com/free-photo/milkshake-table_144627-27511.jpg"/>,
-            <Card name = "Cake" img = "https://atlas-content-cdn.pixelsquid.com/stock-images/chocolate-cake-slice-o0LVr4D-600.jpg"/>,
+            items: [<Card price = "$500" name = "Ice cream" img = "https://atlas-content-cdn.pixelsquid.com/stock-images/ice-cream-cone-rvqOynE-600.jpg"/>,
+            <Card price = "$1000" name = "Sundae" img = "https://www.pnguniverse.com/wp-content/uploads/2020/10/Sundae.png"/>,
+            <Card price = "$1500" name = "Milkshake" img = "https://img.freepik.com/free-photo/milkshake-table_144627-27511.jpg"/>,
+            <Card price = "$1200" name = "Cake" img = "https://atlas-content-cdn.pixelsquid.com/stock-images/chocolate-cake-slice-o0LVr4D-600.jpg"/>,
         ]
         }
         
@@ -71,20 +71,21 @@ export default function page() {
 
   return (
     <main className="h-screen w-full flex">
-         <nav className='border-r-2 border-[#DFA641] bg-white grid place-items-center h-screen p-2 w-36 fixed'>
+         <nav className='border-r-2 border-[#DFA641] bg-white grid place-items-center h-screen w-36 fixed'>
             <ul className='grid gap-9 text-[#DFA641]'>
                 {categoriesTxt.map((e,i)=>{
                     return <li onClick={()=>{
                         setCategory(i+1);
-                    }} className='rounded-lg bg-transparent p-2
-                     hover:bg-[#894c0a] hover:text-white hover:cursor-pointer duration-150'>{e}</li>
+                    }} className={`${category-1 == i ? 'bg-[#894c0a] text-white' : 'bg-transparent'} 
+                    rounded-lg p-2
+                     hover:bg-[#894c0a] text-sm hover:text-white hover:cursor-pointer duration-150`}>{e}</li>
                 })}
             </ul>
         </nav>
         <div className="py-10 w-full ml-36">
-            <h1 className='text-5xl text-center text-[#ae802e]'>{categories[category]}</h1>
             <Suspense fallback = {<Loader/>}>
-            <div className="grid grid-cols-3 gap-9 place-items-center mt-10 pb-8">
+            <h1 className='text-5xl text-center text-[#ae802e]'>{categories[category]}</h1>
+            <div className="grid sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-9 md:gap-2 place-items-center mt-10 pb-8">
                 {sections[category].items.map((el)=>{
                     return <div>{el}</div>;
                 })}
